@@ -1,0 +1,13 @@
+C:\Users\pereb151\Documents\New\MID-Senior SWE-20240521T145046Z-001\MID-Senior SWE\Sprout.Exam.WebApp\Sprout.Exam.DataAccess\bin\Debug\netcoreapp3.1\Sprout.Exam.DataAccess.deps.json
+C:\Users\pereb151\Documents\New\MID-Senior SWE-20240521T145046Z-001\MID-Senior SWE\Sprout.Exam.WebApp\Sprout.Exam.DataAccess\bin\Debug\netcoreapp3.1\Sprout.Exam.DataAccess.runtimeconfig.json
+C:\Users\pereb151\Documents\New\MID-Senior SWE-20240521T145046Z-001\MID-Senior SWE\Sprout.Exam.WebApp\Sprout.Exam.DataAccess\bin\Debug\netcoreapp3.1\Sprout.Exam.DataAccess.runtimeconfig.dev.json
+C:\Users\pereb151\Documents\New\MID-Senior SWE-20240521T145046Z-001\MID-Senior SWE\Sprout.Exam.WebApp\Sprout.Exam.DataAccess\bin\Debug\netcoreapp3.1\Sprout.Exam.DataAccess.dll
+C:\Users\pereb151\Documents\New\MID-Senior SWE-20240521T145046Z-001\MID-Senior SWE\Sprout.Exam.WebApp\Sprout.Exam.DataAccess\bin\Debug\netcoreapp3.1\Sprout.Exam.DataAccess.pdb
+C:\Users\pereb151\Documents\New\MID-Senior SWE-20240521T145046Z-001\MID-Senior SWE\Sprout.Exam.WebApp\Sprout.Exam.DataAccess\obj\Debug\netcoreapp3.1\Sprout.Exam.DataAccess.csproj.AssemblyReference.cache
+C:\Users\pereb151\Documents\New\MID-Senior SWE-20240521T145046Z-001\MID-Senior SWE\Sprout.Exam.WebApp\Sprout.Exam.DataAccess\obj\Debug\netcoreapp3.1\Sprout.Exam.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pereb151\Documents\New\MID-Senior SWE-20240521T145046Z-001\MID-Senior SWE\Sprout.Exam.WebApp\Sprout.Exam.DataAccess\obj\Debug\netcoreapp3.1\Sprout.Exam.DataAccess.AssemblyInfoInputs.cache
+C:\Users\pereb151\Documents\New\MID-Senior SWE-20240521T145046Z-001\MID-Senior SWE\Sprout.Exam.WebApp\Sprout.Exam.DataAccess\obj\Debug\netcoreapp3.1\Sprout.Exam.DataAccess.AssemblyInfo.cs
+C:\Users\pereb151\Documents\New\MID-Senior SWE-20240521T145046Z-001\MID-Senior SWE\Sprout.Exam.WebApp\Sprout.Exam.DataAccess\obj\Debug\netcoreapp3.1\Sprout.Exam.DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\pereb151\Documents\New\MID-Senior SWE-20240521T145046Z-001\MID-Senior SWE\Sprout.Exam.WebApp\Sprout.Exam.DataAccess\obj\Debug\netcoreapp3.1\Sprout.Exam.DataAccess.dll
+C:\Users\pereb151\Documents\New\MID-Senior SWE-20240521T145046Z-001\MID-Senior SWE\Sprout.Exam.WebApp\Sprout.Exam.DataAccess\obj\Debug\netcoreapp3.1\Sprout.Exam.DataAccess.pdb
+C:\Users\pereb151\Documents\New\MID-Senior SWE-20240521T145046Z-001\MID-Senior SWE\Sprout.Exam.WebApp\Sprout.Exam.DataAccess\obj\Debug\netcoreapp3.1\Sprout.Exam.DataAccess.genruntimeconfig.cache

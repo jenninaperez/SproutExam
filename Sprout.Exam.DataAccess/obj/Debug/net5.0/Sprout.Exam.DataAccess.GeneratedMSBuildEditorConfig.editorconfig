@@ -1,0 +1,10 @@
+is_global = true
+build_property.TargetFramework = net5.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = 
+build_property.ProjectTypeGuids = 
+build_property.PublishSingleFile = 
+build_property.IncludeAllContentForSelfExtract = 
+build_property._SupportedPlatformList = Android,iOS,Linux,macOS,Windows
+build_property.RootNamespace = Sprout.Exam.DataAccess
+build_property.ProjectDir = C:\Users\pereb151\Documents\New\MID-Senior SWE-20240521T145046Z-001\MID-Senior SWE\Sprout.Exam.WebApp\Sprout.Exam.DataAccess\

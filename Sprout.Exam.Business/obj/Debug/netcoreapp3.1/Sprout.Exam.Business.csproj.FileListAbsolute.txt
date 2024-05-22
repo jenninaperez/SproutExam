@@ -1,0 +1,27 @@
+C:\Users\jhernandez\source\repos\Sprout.Exam.WebApp\Sprout.Exam.Business\bin\Debug\netcoreapp3.1\Sprout.Exam.Business.deps.json
+C:\Users\jhernandez\source\repos\Sprout.Exam.WebApp\Sprout.Exam.Business\bin\Debug\netcoreapp3.1\Sprout.Exam.Business.dll
+C:\Users\jhernandez\source\repos\Sprout.Exam.WebApp\Sprout.Exam.Business\bin\Debug\netcoreapp3.1\Sprout.Exam.Business.pdb
+C:\Users\jhernandez\source\repos\Sprout.Exam.WebApp\Sprout.Exam.Business\obj\Debug\netcoreapp3.1\Sprout.Exam.Business.csprojAssemblyReference.cache
+C:\Users\jhernandez\source\repos\Sprout.Exam.WebApp\Sprout.Exam.Business\obj\Debug\netcoreapp3.1\Sprout.Exam.Business.AssemblyInfoInputs.cache
+C:\Users\jhernandez\source\repos\Sprout.Exam.WebApp\Sprout.Exam.Business\obj\Debug\netcoreapp3.1\Sprout.Exam.Business.AssemblyInfo.cs
+C:\Users\jhernandez\source\repos\Sprout.Exam.WebApp\Sprout.Exam.Business\obj\Debug\netcoreapp3.1\Sprout.Exam.Business.csproj.CoreCompileInputs.cache
+C:\Users\jhernandez\source\repos\Sprout.Exam.WebApp\Sprout.Exam.Business\obj\Debug\netcoreapp3.1\Sprout.Exam.Business.dll
+C:\Users\jhernandez\source\repos\Sprout.Exam.WebApp\Sprout.Exam.Business\obj\Debug\netcoreapp3.1\Sprout.Exam.Business.pdb
+C:\Users\jhernandez\source\repos\Sprout.Exam.WebApp\Sprout.Exam.Business\bin\Debug\netcoreapp3.1\Sprout.Exam.Common.dll
+C:\Users\jhernandez\source\repos\Sprout.Exam.WebApp\Sprout.Exam.Business\bin\Debug\netcoreapp3.1\Sprout.Exam.Common.pdb
+C:\Users\jhernandez\source\repos\Sprout.Exam.WebApp\Sprout.Exam.Business\obj\Debug\netcoreapp3.1\Sprout.Exam.Business.csproj.CopyComplete
+C:\Users\pereb151\Documents\New\MID-Senior SWE-20240521T145046Z-001\MID-Senior SWE\Sprout.Exam.WebApp\Sprout.Exam.Business\bin\Debug\netcoreapp3.1\Sprout.Exam.Business.deps.json
+C:\Users\pereb151\Documents\New\MID-Senior SWE-20240521T145046Z-001\MID-Senior SWE\Sprout.Exam.WebApp\Sprout.Exam.Business\bin\Debug\netcoreapp3.1\Sprout.Exam.Business.dll
+C:\Users\pereb151\Documents\New\MID-Senior SWE-20240521T145046Z-001\MID-Senior SWE\Sprout.Exam.WebApp\Sprout.Exam.Business\bin\Debug\netcoreapp3.1\Sprout.Exam.Business.pdb
+C:\Users\pereb151\Documents\New\MID-Senior SWE-20240521T145046Z-001\MID-Senior SWE\Sprout.Exam.WebApp\Sprout.Exam.Business\bin\Debug\netcoreapp3.1\Sprout.Exam.Common.dll
+C:\Users\pereb151\Documents\New\MID-Senior SWE-20240521T145046Z-001\MID-Senior SWE\Sprout.Exam.WebApp\Sprout.Exam.Business\bin\Debug\netcoreapp3.1\Sprout.Exam.DataAccess.dll
+C:\Users\pereb151\Documents\New\MID-Senior SWE-20240521T145046Z-001\MID-Senior SWE\Sprout.Exam.WebApp\Sprout.Exam.Business\bin\Debug\netcoreapp3.1\Sprout.Exam.Common.pdb
+C:\Users\pereb151\Documents\New\MID-Senior SWE-20240521T145046Z-001\MID-Senior SWE\Sprout.Exam.WebApp\Sprout.Exam.Business\bin\Debug\netcoreapp3.1\Sprout.Exam.DataAccess.pdb
+C:\Users\pereb151\Documents\New\MID-Senior SWE-20240521T145046Z-001\MID-Senior SWE\Sprout.Exam.WebApp\Sprout.Exam.Business\obj\Debug\netcoreapp3.1\Sprout.Exam.Business.csproj.AssemblyReference.cache
+C:\Users\pereb151\Documents\New\MID-Senior SWE-20240521T145046Z-001\MID-Senior SWE\Sprout.Exam.WebApp\Sprout.Exam.Business\obj\Debug\netcoreapp3.1\Sprout.Exam.Business.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pereb151\Documents\New\MID-Senior SWE-20240521T145046Z-001\MID-Senior SWE\Sprout.Exam.WebApp\Sprout.Exam.Business\obj\Debug\netcoreapp3.1\Sprout.Exam.Business.AssemblyInfoInputs.cache
+C:\Users\pereb151\Documents\New\MID-Senior SWE-20240521T145046Z-001\MID-Senior SWE\Sprout.Exam.WebApp\Sprout.Exam.Business\obj\Debug\netcoreapp3.1\Sprout.Exam.Business.AssemblyInfo.cs
+C:\Users\pereb151\Documents\New\MID-Senior SWE-20240521T145046Z-001\MID-Senior SWE\Sprout.Exam.WebApp\Sprout.Exam.Business\obj\Debug\netcoreapp3.1\Sprout.Exam.Business.csproj.CoreCompileInputs.cache
+C:\Users\pereb151\Documents\New\MID-Senior SWE-20240521T145046Z-001\MID-Senior SWE\Sprout.Exam.WebApp\Sprout.Exam.Business\obj\Debug\netcoreapp3.1\Sprout.Exam.Business.csproj.CopyComplete
+C:\Users\pereb151\Documents\New\MID-Senior SWE-20240521T145046Z-001\MID-Senior SWE\Sprout.Exam.WebApp\Sprout.Exam.Business\obj\Debug\netcoreapp3.1\Sprout.Exam.Business.dll
+C:\Users\pereb151\Documents\New\MID-Senior SWE-20240521T145046Z-001\MID-Senior SWE\Sprout.Exam.WebApp\Sprout.Exam.Business\obj\Debug\netcoreapp3.1\Sprout.Exam.Business.pdb

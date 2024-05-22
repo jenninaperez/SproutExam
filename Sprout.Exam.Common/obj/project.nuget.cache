@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "gTiqrm1m0yu9H2Q2gT22Lx8Y+SVWRNuJsB/hwY68ISrhdfkxaz7JFArZvJw2Rz6ktWkmrY9ltD854RHYHwsAag==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\pereb151\\Documents\\New\\MID-Senior SWE-20240521T145046Z-001\\MID-Senior SWE\\Sprout.Exam.WebApp\\Sprout.Exam.Common\\Sprout.Exam.Common.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\pereb151\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.10\\microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
+    "C:\\Users\\pereb151\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.1.0\\microsoft.windowsdesktop.app.ref.3.1.0.nupkg.sha512",
+    "C:\\Users\\pereb151\\.nuget\\packages\\microsoft.netcore.app.ref\\3.1.0\\microsoft.netcore.app.ref.3.1.0.nupkg.sha512"
+  ],
+  "logs": []
+}
